@@ -26,6 +26,8 @@
 
 - 📫 How to reach me **techmantic33@gmail.com**
 
+![GettyImages-1321307821](https://user-images.githubusercontent.com/114743961/227707582-019e398a-ca4c-4b3f-b3a0-483133ed2993.jpg)
+
 - ⚡ Fun fact **I am funny.**
 
 ### Blogs posts

@@ -28,7 +28,13 @@
 
 - 📫 How to reach me **techmantic33@gmail.com**
 
-<h1>hi</h1>
+<h1>echo "# GetRedeme" >> README.md</h1>
+<h3>git init</h3><br>
+ <h3>git add README.md</h3><br>
+<h3>git commit -m "first commit"</h3><br>
+<h3>git branch -M main</h3><br>
+<h3>git remote add origin https://github.com/Dynamos3144/GetRedeme.git</h3><br>
+<h3>git push -u origin main</h3><br>
 
 ![GettyImages-1321307821](https://user-images.githubusercontent.com/114743961/227707582-019e398a-ca4c-4b3f-b3a0-483133ed2993.jpg)
 
